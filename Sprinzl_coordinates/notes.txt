@@ -1,0 +1,20 @@
+#Apply standardized number schemes to tRNA position (Sprinzl numbering).
+
+#https://www.ncbi.nlm.nih.gov/pmc/articles/PMC309727/
+#https://www.ncbi.nlm.nih.gov/pmc/articles/PMC147216/
+
+#Files here: /Users/sloan/Documents/ColoradoState/projects/tRNAs/MSR-seq/Sequencing/20231206_novogene_At_MSR-seq/Analysis/20231220/tRNA_ref_db/Sprinzl
+
+#Downloaded all Arabidopsis thaliana Col-0 tRNA genes (June 22, 2024) from plantRNA database: https://seve.ibmp.unistra.fr/plantrna/
+
+#This produces an excel file with tRNA sequences partioned into their different regions: plantRNA-result.xls
+
+#Manually modified to remove duplicates, generate a concatenated version of the sequence, and incorporate gene names matching the database in the current analysis: plantRNA.xlsx
+
+#Also exported as a tsv file from excel and converted line breaks to linux (LF) with BBEdit: plantRNA.txt
+
+#script to map each tRNA base onto a Sprinzl position.
+
+perl plantRNA_to_Sprinzl.pl plantRNA.txt > Arabidopsis_Sprinzl.txt
+
+#The above script flags some positions for manual checking. Made some updates to these: Arabidopsis_Sprinzl.mod.txt

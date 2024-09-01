@@ -1,0 +1,33 @@
+﻿tRNA,Extraction,Trt,Bio-Rep,Measure,Percentage
+All tRNAs,Acid-Phenol,No Periodate,1,CCA Tails,75.1
+All tRNAs,Acid-Phenol,No Periodate,2,CCA Tails,75.9
+All tRNAs,Acid-Phenol,Periodate Oxidation,1,CCA Tails,50.9
+All tRNAs,Acid-Phenol,Periodate Oxidation,2,CCA Tails,54.7
+All tRNAs,Trizol,No Periodate,1,CCA Tails,75.8
+All tRNAs,Trizol,No Periodate,2,CCA Tails,79.0
+All tRNAs,Trizol,Periodate Oxidation,1,CCA Tails,54.2
+All tRNAs,Trizol,Periodate Oxidation,2,CCA Tails,57.6
+Synthetic Spike-In,Acid-Phenol,No Periodate,1,CCA Tails,85.9
+Synthetic Spike-In,Acid-Phenol,No Periodate,2,CCA Tails,87.2
+Synthetic Spike-In,Acid-Phenol,Periodate Oxidation,1,CCA Tails,1.5
+Synthetic Spike-In,Acid-Phenol,Periodate Oxidation,2,CCA Tails,2.2
+Synthetic Spike-In,Trizol,No Periodate,1,CCA Tails,86.6
+Synthetic Spike-In,Trizol,No Periodate,2,CCA Tails,88.8
+Synthetic Spike-In,Trizol,Periodate Oxidation,1,CCA Tails,2.0
+Synthetic Spike-In,Trizol,Periodate Oxidation,2,CCA Tails,1.0
+All tRNAs,Acid-Phenol,No Periodate,1,Non-CCA/CC,40.1
+All tRNAs,Acid-Phenol,No Periodate,2,Non-CCA/CC,40.6
+All tRNAs,Acid-Phenol,Periodate Oxidation,1,Non-CCA/CC,64.4
+All tRNAs,Acid-Phenol,Periodate Oxidation,2,Non-CCA/CC,64.2
+All tRNAs,Trizol,No Periodate,1,Non-CCA/CC,41.9
+All tRNAs,Trizol,No Periodate,2,Non-CCA/CC,39.2
+All tRNAs,Trizol,Periodate Oxidation,1,Non-CCA/CC,65.1
+All tRNAs,Trizol,Periodate Oxidation,2,Non-CCA/CC,62.5
+Synthetic Spike-In,Acid-Phenol,No Periodate,1,Non-CCA/CC,39.5
+Synthetic Spike-In,Acid-Phenol,No Periodate,2,Non-CCA/CC,42.7
+Synthetic Spike-In,Acid-Phenol,Periodate Oxidation,1,Non-CCA/CC,82.7
+Synthetic Spike-In,Acid-Phenol,Periodate Oxidation,2,Non-CCA/CC,84.1
+Synthetic Spike-In,Trizol,No Periodate,1,Non-CCA/CC,39.5
+Synthetic Spike-In,Trizol,No Periodate,2,Non-CCA/CC,37.0
+Synthetic Spike-In,Trizol,Periodate Oxidation,1,Non-CCA/CC,81.2
+Synthetic Spike-In,Trizol,Periodate Oxidation,2,Non-CCA/CC,70.2

@@ -1,0 +1,721 @@
+﻿Ref_tRNA,Genome,Count_Type,Trt,Acid_Phenol,Trizol
+nuclear-Ath-ValTAC-183746,Nuclear,CCA,Control,0.648126186,0.74898374
+nuclear-Ath-ValTAC-183746,Nuclear,CCA,Periodate Oxidation,0.467901791,0.564698849
+nuclear-Ath-ValTAC-183746,Nuclear,Non-CC/CCA,Control,0.759688598,0.755547294
+nuclear-Ath-ValTAC-183746,Nuclear,Non-CC/CCA,Periodate Oxidation,0.849561987,0.846463852
+nuclear-Ath-ValTAC-183729,Nuclear,CCA,Control,0.572297746,0.611827681
+nuclear-Ath-ValTAC-183729,Nuclear,CCA,Periodate Oxidation,0.428976848,0.436190476
+nuclear-Ath-ValTAC-183729,Nuclear,Non-CC/CCA,Control,0.664380656,0.669477744
+nuclear-Ath-ValTAC-183729,Nuclear,Non-CC/CCA,Periodate Oxidation,0.748350285,0.741927511
+nuclear-Ath-ValTAC-171767,Nuclear,CCA,Control,0.678987527,0.698054362
+nuclear-Ath-ValTAC-171767,Nuclear,CCA,Periodate Oxidation,0.458338834,0.528190109
+nuclear-Ath-ValTAC-171767,Nuclear,Non-CC/CCA,Control,0.73926128,0.74786452
+nuclear-Ath-ValTAC-171767,Nuclear,Non-CC/CCA,Periodate Oxidation,0.831852319,0.823843336
+nuclear-Ath-ValCAC-183758,Nuclear,CCA,Control,0.607440147,0.639863504
+nuclear-Ath-ValCAC-183758,Nuclear,CCA,Periodate Oxidation,0.368808831,0.45411661
+nuclear-Ath-ValCAC-183758,Nuclear,Non-CC/CCA,Control,0.533512684,0.543068438
+nuclear-Ath-ValCAC-183758,Nuclear,Non-CC/CCA,Periodate Oxidation,0.71566407,0.698892274
+nuclear-Ath-ValCAC-171807,Nuclear,CCA,Control,0.631037355,0.664906459
+nuclear-Ath-ValCAC-171807,Nuclear,CCA,Periodate Oxidation,0.387788674,0.461475012
+nuclear-Ath-ValCAC-171807,Nuclear,Non-CC/CCA,Control,0.507124093,0.525931089
+nuclear-Ath-ValCAC-171807,Nuclear,Non-CC/CCA,Periodate Oxidation,0.711866957,0.706457116
+nuclear-Ath-ValAAC-171779,Nuclear,CCA,Control,0.570783128,0.612632957
+nuclear-Ath-ValAAC-171779,Nuclear,CCA,Periodate Oxidation,0.370314614,0.413901743
+nuclear-Ath-ValAAC-171779,Nuclear,Non-CC/CCA,Control,0.717712752,0.727048423
+nuclear-Ath-ValAAC-171779,Nuclear,Non-CC/CCA,Periodate Oxidation,0.825778766,0.825462785
+nuclear-Ath-TyrGTA-183719,Nuclear,CCA,Control,0.857330192,0.882773813
+nuclear-Ath-TyrGTA-183719,Nuclear,CCA,Periodate Oxidation,0.693905215,0.705124707
+nuclear-Ath-TyrGTA-183719,Nuclear,Non-CC/CCA,Control,0.213501551,0.191022731
+nuclear-Ath-TyrGTA-183719,Nuclear,Non-CC/CCA,Periodate Oxidation,0.439034652,0.429002729
+nuclear-Ath-TyrGTA-171663,Nuclear,CCA,Control,0.855261536,0.88082773
+nuclear-Ath-TyrGTA-171663,Nuclear,CCA,Periodate Oxidation,0.67712501,0.697244674
+nuclear-Ath-TyrGTA-171663,Nuclear,Non-CC/CCA,Control,0.243710018,0.217748297
+nuclear-Ath-TyrGTA-171663,Nuclear,Non-CC/CCA,Periodate Oxidation,0.473854627,0.460871892
+nuclear-Ath-TrpCCA-171734,Nuclear,CCA,Control,0.748102953,0.753531822
+nuclear-Ath-TrpCCA-171734,Nuclear,CCA,Periodate Oxidation,0.378185632,0.417249092
+nuclear-Ath-TrpCCA-171734,Nuclear,Non-CC/CCA,Control,0.430336925,0.451455967
+nuclear-Ath-TrpCCA-171734,Nuclear,Non-CC/CCA,Periodate Oxidation,0.769203267,0.765136049
+nuclear-Ath-TrpCCA-171732,Nuclear,CCA,Control,0.751689647,0.758154406
+nuclear-Ath-TrpCCA-171732,Nuclear,CCA,Periodate Oxidation,0.376930547,0.426542122
+nuclear-Ath-TrpCCA-171732,Nuclear,Non-CC/CCA,Control,0.442908317,0.468718927
+nuclear-Ath-TrpCCA-171732,Nuclear,Non-CC/CCA,Periodate Oxidation,0.776839138,0.773988286
+nuclear-Ath-ThrTGT-183732,Nuclear,CCA,Control,0.698492435,0.701649849
+nuclear-Ath-ThrTGT-183732,Nuclear,CCA,Periodate Oxidation,0.533295943,0.542717347
+nuclear-Ath-ThrTGT-183732,Nuclear,Non-CC/CCA,Control,0.38725304,0.418437948
+nuclear-Ath-ThrTGT-183732,Nuclear,Non-CC/CCA,Periodate Oxidation,0.515940145,0.546751998
+nuclear-Ath-ThrTGT-171705,Nuclear,CCA,Control,0.7053131,0.71742999
+nuclear-Ath-ThrTGT-171705,Nuclear,CCA,Periodate Oxidation,0.53490917,0.565188515
+nuclear-Ath-ThrTGT-171705,Nuclear,Non-CC/CCA,Control,0.419553876,0.440564127
+nuclear-Ath-ThrTGT-171705,Nuclear,Non-CC/CCA,Periodate Oxidation,0.5719416,0.581673653
+nuclear-Ath-ThrTGT-171700,Nuclear,CCA,Control,0.690716114,0.704934375
+nuclear-Ath-ThrTGT-171700,Nuclear,CCA,Periodate Oxidation,0.51769728,0.546290266
+nuclear-Ath-ThrTGT-171700,Nuclear,Non-CC/CCA,Control,0.358960399,0.373735657
+nuclear-Ath-ThrTGT-171700,Nuclear,Non-CC/CCA,Periodate Oxidation,0.518292585,0.530091287
+nuclear-Ath-ThrCGT-171711,Nuclear,CCA,Control,0.751222228,0.751677668
+nuclear-Ath-ThrCGT-171711,Nuclear,CCA,Periodate Oxidation,0.390044729,0.425956994
+nuclear-Ath-ThrCGT-171711,Nuclear,Non-CC/CCA,Control,0.15815479,0.187125637
+nuclear-Ath-ThrCGT-171711,Nuclear,Non-CC/CCA,Periodate Oxidation,0.323639567,0.324738533
+nuclear-Ath-ThrCGT-171710,Nuclear,CCA,Control,0.782996509,0.804930958
+nuclear-Ath-ThrCGT-171710,Nuclear,CCA,Periodate Oxidation,0.480324238,0.494216536
+nuclear-Ath-ThrCGT-171710,Nuclear,Non-CC/CCA,Control,0.15497233,0.156233082
+nuclear-Ath-ThrCGT-171710,Nuclear,Non-CC/CCA,Periodate Oxidation,0.337715031,0.352871296
+nuclear-Ath-ThrCGT-171709,Nuclear,CCA,Control,0.73263529,0.755559984
+nuclear-Ath-ThrCGT-171709,Nuclear,CCA,Periodate Oxidation,0.442519932,0.455310726
+nuclear-Ath-ThrCGT-171709,Nuclear,Non-CC/CCA,Control,0.124237477,0.141403207
+nuclear-Ath-ThrCGT-171709,Nuclear,Non-CC/CCA,Periodate Oxidation,0.287380939,0.290441154
+nuclear-Ath-ThrAGT-171731,Nuclear,CCA,Control,0.732889299,0.761042576
+nuclear-Ath-ThrAGT-171731,Nuclear,CCA,Periodate Oxidation,0.532012807,0.561581247
+nuclear-Ath-ThrAGT-171731,Nuclear,Non-CC/CCA,Control,0.253288489,0.24791757
+nuclear-Ath-ThrAGT-171731,Nuclear,Non-CC/CCA,Periodate Oxidation,0.614843442,0.602226666
+nuclear-Ath-ThrAGT-171723,Nuclear,CCA,Control,0.740940142,0.745370911
+nuclear-Ath-ThrAGT-171723,Nuclear,CCA,Periodate Oxidation,0.559807264,0.581617197
+nuclear-Ath-ThrAGT-171723,Nuclear,Non-CC/CCA,Control,0.268062081,0.26568036
+nuclear-Ath-ThrAGT-171723,Nuclear,Non-CC/CCA,Periodate Oxidation,0.576425667,0.562544466
+nuclear-Ath-ThrAGT-171722,Nuclear,CCA,Control,0.674283779,0.697244752
+nuclear-Ath-ThrAGT-171722,Nuclear,CCA,Periodate Oxidation,0.533774058,0.513356659
+nuclear-Ath-ThrAGT-171722,Nuclear,Non-CC/CCA,Control,0.356545471,0.355261485
+nuclear-Ath-ThrAGT-171722,Nuclear,Non-CC/CCA,Periodate Oxidation,0.585529042,0.598055606
+nuclear-Ath-SerTGA-171793,Nuclear,CCA,Control,0.522796128,0.574178853
+nuclear-Ath-SerTGA-171793,Nuclear,CCA,Periodate Oxidation,0.342707746,0.384630473
+nuclear-Ath-SerTGA-171793,Nuclear,Non-CC/CCA,Control,0.455058913,0.45379575
+nuclear-Ath-SerTGA-171793,Nuclear,Non-CC/CCA,Periodate Oxidation,0.639417397,0.65975676
+nuclear-Ath-SerTGA-171792,Nuclear,CCA,Control,0.476023572,0.54124869
+nuclear-Ath-SerTGA-171792,Nuclear,CCA,Periodate Oxidation,0.305130834,0.352885656
+nuclear-Ath-SerTGA-171792,Nuclear,Non-CC/CCA,Control,0.488120393,0.495047693
+nuclear-Ath-SerTGA-171792,Nuclear,Non-CC/CCA,Periodate Oxidation,0.674951366,0.679297557
+nuclear-Ath-SerTGA-171784,Nuclear,CCA,Control,0.501710408,0.553296958
+nuclear-Ath-SerTGA-171784,Nuclear,CCA,Periodate Oxidation,0.377530719,0.426866115
+nuclear-Ath-SerTGA-171784,Nuclear,Non-CC/CCA,Control,0.498496843,0.474685717
+nuclear-Ath-SerTGA-171784,Nuclear,Non-CC/CCA,Periodate Oxidation,0.665295761,0.683593742
+nuclear-Ath-SerTGA-171783,Nuclear,CCA,Control,0.467469801,0.550825282
+nuclear-Ath-SerTGA-171783,Nuclear,CCA,Periodate Oxidation,0.321114154,0.37888387
+nuclear-Ath-SerTGA-171783,Nuclear,Non-CC/CCA,Control,0.385314886,0.397817863
+nuclear-Ath-SerTGA-171783,Nuclear,Non-CC/CCA,Periodate Oxidation,0.624091897,0.621734272
+nuclear-Ath-SerGCT-183752,Nuclear,CCA,Control,0.706614307,0.706957695
+nuclear-Ath-SerGCT-183752,Nuclear,CCA,Periodate Oxidation,0.506702997,0.562842581
+nuclear-Ath-SerGCT-183752,Nuclear,Non-CC/CCA,Control,0.303512546,0.339914266
+nuclear-Ath-SerGCT-183752,Nuclear,Non-CC/CCA,Periodate Oxidation,0.52823067,0.513920371
+nuclear-Ath-SerGCT-183728,Nuclear,CCA,Control,0.700417482,0.722277871
+nuclear-Ath-SerGCT-183728,Nuclear,CCA,Periodate Oxidation,0.595598219,0.602695503
+nuclear-Ath-SerGCT-183728,Nuclear,Non-CC/CCA,Control,0.335122385,0.359196192
+nuclear-Ath-SerGCT-183728,Nuclear,Non-CC/CCA,Periodate Oxidation,0.532537036,0.531062748
+nuclear-Ath-SerGCT-171800,Nuclear,CCA,Control,0.711364762,0.726062711
+nuclear-Ath-SerGCT-171800,Nuclear,CCA,Periodate Oxidation,0.557696855,0.571408277
+nuclear-Ath-SerGCT-171800,Nuclear,Non-CC/CCA,Control,0.298484248,0.334802129
+nuclear-Ath-SerGCT-171800,Nuclear,Non-CC/CCA,Periodate Oxidation,0.477859389,0.483859993
+nuclear-Ath-SerGCT-171798,Nuclear,CCA,Control,0.706380337,0.713849592
+nuclear-Ath-SerGCT-171798,Nuclear,CCA,Periodate Oxidation,0.552197983,0.581218771
+nuclear-Ath-SerGCT-171798,Nuclear,Non-CC/CCA,Control,0.295873434,0.332053868
+nuclear-Ath-SerGCT-171798,Nuclear,Non-CC/CCA,Periodate Oxidation,0.470095998,0.478250753
+nuclear-Ath-SerGCT-171797,Nuclear,CCA,Control,0.724301123,0.733201953
+nuclear-Ath-SerGCT-171797,Nuclear,CCA,Periodate Oxidation,0.513372866,0.54244563
+nuclear-Ath-SerGCT-171797,Nuclear,Non-CC/CCA,Control,0.256073084,0.276653008
+nuclear-Ath-SerGCT-171797,Nuclear,Non-CC/CCA,Periodate Oxidation,0.520301002,0.525109394
+nuclear-Ath-SerGCT-171796,Nuclear,CCA,Control,0.712883911,0.723374801
+nuclear-Ath-SerGCT-171796,Nuclear,CCA,Periodate Oxidation,0.531059455,0.572538764
+nuclear-Ath-SerGCT-171796,Nuclear,Non-CC/CCA,Control,0.287680401,0.337256569
+nuclear-Ath-SerGCT-171796,Nuclear,Non-CC/CCA,Periodate Oxidation,0.502304081,0.501442226
+nuclear-Ath-SerCGA-171794,Nuclear,CCA,Control,0.552828338,0.601382174
+nuclear-Ath-SerCGA-171794,Nuclear,CCA,Periodate Oxidation,0.385409825,0.444016362
+nuclear-Ath-SerCGA-171794,Nuclear,Non-CC/CCA,Control,0.431912251,0.420161559
+nuclear-Ath-SerCGA-171794,Nuclear,Non-CC/CCA,Periodate Oxidation,0.631614231,0.628204269
+nuclear-Ath-SerCGA-171785,Nuclear,CCA,Control,0.565968788,0.598605526
+nuclear-Ath-SerCGA-171785,Nuclear,CCA,Periodate Oxidation,0.404914232,0.449367658
+nuclear-Ath-SerCGA-171785,Nuclear,Non-CC/CCA,Control,0.481554836,0.461563235
+nuclear-Ath-SerCGA-171785,Nuclear,Non-CC/CCA,Periodate Oxidation,0.66654072,0.65808676
+nuclear-Ath-SerCGA-171782,Nuclear,CCA,Control,0.55095072,0.553751165
+nuclear-Ath-SerCGA-171782,Nuclear,CCA,Periodate Oxidation,0.373504338,0.405540812
+nuclear-Ath-SerCGA-171782,Nuclear,Non-CC/CCA,Control,0.502560135,0.491806342
+nuclear-Ath-SerCGA-171782,Nuclear,Non-CC/CCA,Periodate Oxidation,0.707887299,0.712372296
+nuclear-Ath-SerAGA-183759,Nuclear,CCA,Control,0.550429318,0.585184138
+nuclear-Ath-SerAGA-183759,Nuclear,CCA,Periodate Oxidation,0.421147308,0.456009383
+nuclear-Ath-SerAGA-183759,Nuclear,Non-CC/CCA,Control,0.794212382,0.781146023
+nuclear-Ath-SerAGA-183759,Nuclear,Non-CC/CCA,Periodate Oxidation,0.816802195,0.822951126
+nuclear-Ath-SerAGA-183750,Nuclear,CCA,Control,0.641084619,0.730637697
+nuclear-Ath-SerAGA-183750,Nuclear,CCA,Periodate Oxidation,0.501461589,0.548301254
+nuclear-Ath-SerAGA-183750,Nuclear,Non-CC/CCA,Control,0.399745239,0.34600761
+nuclear-Ath-SerAGA-183750,Nuclear,Non-CC/CCA,Periodate Oxidation,0.554304914,0.544858481
+nuclear-Ath-SerAGA-171813,Nuclear,CCA,Control,0.570451764,0.625212775
+nuclear-Ath-SerAGA-171813,Nuclear,CCA,Periodate Oxidation,0.418072828,0.474222179
+nuclear-Ath-SerAGA-171813,Nuclear,Non-CC/CCA,Control,0.812864042,0.801076672
+nuclear-Ath-SerAGA-171813,Nuclear,Non-CC/CCA,Periodate Oxidation,0.834356598,0.84091676
+nuclear-Ath-SerAGA-171812,Nuclear,CCA,Control,0.566860616,0.599746456
+nuclear-Ath-SerAGA-171812,Nuclear,CCA,Periodate Oxidation,0.378915261,0.428851446
+nuclear-Ath-SerAGA-171812,Nuclear,Non-CC/CCA,Control,0.821756077,0.823148193
+nuclear-Ath-SerAGA-171812,Nuclear,Non-CC/CCA,Periodate Oxidation,0.878074421,0.884537363
+nuclear-Ath-ProTGG-171744,Nuclear,CCA,Control,0.868749853,0.879863419
+nuclear-Ath-ProTGG-171744,Nuclear,CCA,Periodate Oxidation,0.622727791,0.655481621
+nuclear-Ath-ProTGG-171744,Nuclear,Non-CC/CCA,Control,0.224677088,0.226612693
+nuclear-Ath-ProTGG-171744,Nuclear,Non-CC/CCA,Periodate Oxidation,0.582288961,0.566060843
+nuclear-Ath-ProTGG-171741,Nuclear,CCA,Control,0.88478451,0.892789204
+nuclear-Ath-ProTGG-171741,Nuclear,CCA,Periodate Oxidation,0.638941304,0.668151021
+nuclear-Ath-ProTGG-171741,Nuclear,Non-CC/CCA,Control,0.263224041,0.257775575
+nuclear-Ath-ProTGG-171741,Nuclear,Non-CC/CCA,Periodate Oxidation,0.623043363,0.61877851
+nuclear-Ath-ProCGG-171761,Nuclear,CCA,Control,0.867085722,0.87462969
+nuclear-Ath-ProCGG-171761,Nuclear,CCA,Periodate Oxidation,0.610175925,0.634997326
+nuclear-Ath-ProCGG-171761,Nuclear,Non-CC/CCA,Control,0.324442481,0.322408308
+nuclear-Ath-ProCGG-171761,Nuclear,Non-CC/CCA,Periodate Oxidation,0.716365703,0.708750035
+nuclear-Ath-ProCGG-171760,Nuclear,CCA,Control,0.86663216,0.878251792
+nuclear-Ath-ProCGG-171760,Nuclear,CCA,Periodate Oxidation,0.595511207,0.63430115
+nuclear-Ath-ProCGG-171760,Nuclear,Non-CC/CCA,Control,0.323311345,0.329407715
+nuclear-Ath-ProCGG-171760,Nuclear,Non-CC/CCA,Periodate Oxidation,0.717449861,0.707768682
+nuclear-Ath-ProAGG-171743,Nuclear,CCA,Control,0.87907628,0.88854444
+nuclear-Ath-ProAGG-171743,Nuclear,CCA,Periodate Oxidation,0.677239246,0.708445552
+nuclear-Ath-ProAGG-171743,Nuclear,Non-CC/CCA,Control,0.183278959,0.182143835
+nuclear-Ath-ProAGG-171743,Nuclear,Non-CC/CCA,Periodate Oxidation,0.440755052,0.430098582
+nuclear-Ath-ProAGG-171738,Nuclear,CCA,Control,0.894686396,0.902216644
+nuclear-Ath-ProAGG-171738,Nuclear,CCA,Periodate Oxidation,0.718695998,0.744298858
+nuclear-Ath-ProAGG-171738,Nuclear,Non-CC/CCA,Control,0.193723799,0.20234242
+nuclear-Ath-ProAGG-171738,Nuclear,Non-CC/CCA,Periodate Oxidation,0.438507598,0.43339263
+nuclear-Ath-ProAGG-171737,Nuclear,CCA,Control,0.882328702,0.890983384
+nuclear-Ath-ProAGG-171737,Nuclear,CCA,Periodate Oxidation,0.698277718,0.705827236
+nuclear-Ath-ProAGG-171737,Nuclear,Non-CC/CCA,Control,0.221541836,0.221450147
+nuclear-Ath-ProAGG-171737,Nuclear,Non-CC/CCA,Periodate Oxidation,0.490798447,0.487402601
+nuclear-Ath-PheGAA-171718,Nuclear,CCA,Control,0.59373798,0.613556189
+nuclear-Ath-PheGAA-171718,Nuclear,CCA,Periodate Oxidation,0.445616344,0.442384421
+nuclear-Ath-PheGAA-171718,Nuclear,Non-CC/CCA,Control,0.409951152,0.400963698
+nuclear-Ath-PheGAA-171718,Nuclear,Non-CC/CCA,Periodate Oxidation,0.639298469,0.647918119
+nuclear-Ath-LysTTT-183734,Nuclear,CCA,Control,0.835055664,0.851962871
+nuclear-Ath-LysTTT-183734,Nuclear,CCA,Periodate Oxidation,0.626338028,0.670696937
+nuclear-Ath-LysTTT-183734,Nuclear,Non-CC/CCA,Control,0.157516671,0.166302343
+nuclear-Ath-LysTTT-183734,Nuclear,Non-CC/CCA,Periodate Oxidation,0.428655743,0.433567584
+nuclear-Ath-LysTTT-171712,Nuclear,CCA,Control,0.808766035,0.832169165
+nuclear-Ath-LysTTT-171712,Nuclear,CCA,Periodate Oxidation,0.624656105,0.659211377
+nuclear-Ath-LysTTT-171712,Nuclear,Non-CC/CCA,Control,0.173803765,0.226653772
+nuclear-Ath-LysTTT-171712,Nuclear,Non-CC/CCA,Periodate Oxidation,0.425165563,0.430346051
+nuclear-Ath-LysTTT-171707,Nuclear,CCA,Control,0.820120454,0.854478186
+nuclear-Ath-LysTTT-171707,Nuclear,CCA,Periodate Oxidation,0.607264574,0.672739768
+nuclear-Ath-LysTTT-171707,Nuclear,Non-CC/CCA,Control,0.166967653,0.188426092
+nuclear-Ath-LysTTT-171707,Nuclear,Non-CC/CCA,Periodate Oxidation,0.430388005,0.439682785
+nuclear-Ath-LysCTT-171704,Nuclear,CCA,Control,0.769257603,0.794080419
+nuclear-Ath-LysCTT-171704,Nuclear,CCA,Periodate Oxidation,0.539344936,0.571683651
+nuclear-Ath-LysCTT-171704,Nuclear,Non-CC/CCA,Control,0.171573776,0.168517652
+nuclear-Ath-LysCTT-171704,Nuclear,Non-CC/CCA,Periodate Oxidation,0.425309545,0.421921545
+nuclear-Ath-LysCTT-171703,Nuclear,CCA,Control,0.728516374,0.761342824
+nuclear-Ath-LysCTT-171703,Nuclear,CCA,Periodate Oxidation,0.52161904,0.563549876
+nuclear-Ath-LysCTT-171703,Nuclear,Non-CC/CCA,Control,0.254813436,0.257038671
+nuclear-Ath-LysCTT-171703,Nuclear,Non-CC/CCA,Periodate Oxidation,0.486418303,0.494907949
+nuclear-Ath-LeuTAG-171685,Nuclear,CCA,Control,0.688885243,0.724994878
+nuclear-Ath-LeuTAG-171685,Nuclear,CCA,Periodate Oxidation,0.438663267,0.475482433
+nuclear-Ath-LeuTAG-171685,Nuclear,Non-CC/CCA,Control,0.458452014,0.449208815
+nuclear-Ath-LeuTAG-171685,Nuclear,Non-CC/CCA,Periodate Oxidation,0.754368445,0.747748575
+nuclear-Ath-LeuTAG-171675,Nuclear,CCA,Control,0.695686886,0.716612509
+nuclear-Ath-LeuTAG-171675,Nuclear,CCA,Periodate Oxidation,0.433646105,0.475966477
+nuclear-Ath-LeuTAG-171675,Nuclear,Non-CC/CCA,Control,0.415862163,0.409554469
+nuclear-Ath-LeuTAG-171675,Nuclear,Non-CC/CCA,Periodate Oxidation,0.734575823,0.7226145
+nuclear-Ath-LeuTAG-171673,Nuclear,CCA,Control,0.700194278,0.730472956
+nuclear-Ath-LeuTAG-171673,Nuclear,CCA,Periodate Oxidation,0.434810193,0.482838185
+nuclear-Ath-LeuTAG-171673,Nuclear,Non-CC/CCA,Control,0.481211661,0.471363316
+nuclear-Ath-LeuTAG-171673,Nuclear,Non-CC/CCA,Periodate Oxidation,0.769102886,0.764223133
+nuclear-Ath-LeuTAA-171791,Nuclear,CCA,Control,0.672119115,0.7215623
+nuclear-Ath-LeuTAA-171791,Nuclear,CCA,Periodate Oxidation,0.427947377,0.503608811
+nuclear-Ath-LeuTAA-171791,Nuclear,Non-CC/CCA,Control,0.310342654,0.292809972
+nuclear-Ath-LeuTAA-171791,Nuclear,Non-CC/CCA,Periodate Oxidation,0.546589333,0.532964131
+nuclear-Ath-LeuTAA-171699,Nuclear,CCA,Control,0.714989431,0.749214207
+nuclear-Ath-LeuTAA-171699,Nuclear,CCA,Periodate Oxidation,0.521578821,0.56449095
+nuclear-Ath-LeuTAA-171699,Nuclear,Non-CC/CCA,Control,0.44777811,0.422181564
+nuclear-Ath-LeuTAA-171699,Nuclear,Non-CC/CCA,Periodate Oxidation,0.608394196,0.583251442
+nuclear-Ath-LeuTAA-171698,Nuclear,CCA,Control,0.720304467,0.747162293
+nuclear-Ath-LeuTAA-171698,Nuclear,CCA,Periodate Oxidation,0.515503887,0.556588516
+nuclear-Ath-LeuTAA-171698,Nuclear,Non-CC/CCA,Control,0.449953982,0.416642283
+nuclear-Ath-LeuTAA-171698,Nuclear,Non-CC/CCA,Periodate Oxidation,0.593922745,0.577297199
+nuclear-Ath-LeuCAG-171781,Nuclear,CCA,Control,0.712430041,0.745961098
+nuclear-Ath-LeuCAG-171781,Nuclear,CCA,Periodate Oxidation,0.507709146,0.560649899
+nuclear-Ath-LeuCAG-171781,Nuclear,Non-CC/CCA,Control,0.43768021,0.415608716
+nuclear-Ath-LeuCAG-171781,Nuclear,Non-CC/CCA,Periodate Oxidation,0.642185762,0.617258239
+nuclear-Ath-LeuCAA-183751,Nuclear,CCA,Control,0.730326342,0.741747524
+nuclear-Ath-LeuCAA-183751,Nuclear,CCA,Periodate Oxidation,0.504293251,0.532785245
+nuclear-Ath-LeuCAA-183751,Nuclear,Non-CC/CCA,Control,0.382977741,0.383641398
+nuclear-Ath-LeuCAA-183751,Nuclear,Non-CC/CCA,Periodate Oxidation,0.617536559,0.57932071
+nuclear-Ath-LeuCAA-171790,Nuclear,CCA,Control,0.794162385,0.826079129
+nuclear-Ath-LeuCAA-171790,Nuclear,CCA,Periodate Oxidation,0.542349774,0.610895194
+nuclear-Ath-LeuCAA-171790,Nuclear,Non-CC/CCA,Control,0.350140718,0.31916591
+nuclear-Ath-LeuCAA-171790,Nuclear,Non-CC/CCA,Periodate Oxidation,0.632374348,0.605290682
+nuclear-Ath-LeuCAA-171789,Nuclear,CCA,Control,0.781734845,0.806116508
+nuclear-Ath-LeuCAA-171789,Nuclear,CCA,Periodate Oxidation,0.545204416,0.599045873
+nuclear-Ath-LeuCAA-171789,Nuclear,Non-CC/CCA,Control,0.373905994,0.351088992
+nuclear-Ath-LeuCAA-171789,Nuclear,Non-CC/CCA,Periodate Oxidation,0.666286316,0.643209758
+nuclear-Ath-LeuCAA-171787,Nuclear,CCA,Control,0.757805222,0.777002493
+nuclear-Ath-LeuCAA-171787,Nuclear,CCA,Periodate Oxidation,0.512309694,0.584474641
+nuclear-Ath-LeuCAA-171787,Nuclear,Non-CC/CCA,Control,0.404620194,0.372153021
+nuclear-Ath-LeuCAA-171787,Nuclear,Non-CC/CCA,Periodate Oxidation,0.667464274,0.639774704
+nuclear-Ath-LeuCAA-171786,Nuclear,CCA,Control,0.710629387,0.743056399
+nuclear-Ath-LeuCAA-171786,Nuclear,CCA,Periodate Oxidation,0.464026316,0.538370625
+nuclear-Ath-LeuCAA-171786,Nuclear,Non-CC/CCA,Control,0.370009021,0.347067188
+nuclear-Ath-LeuCAA-171786,Nuclear,Non-CC/CCA,Periodate Oxidation,0.643834372,0.61867339
+nuclear-Ath-LeuAAG-171817,Nuclear,CCA,Control,0.735832803,0.7637261
+nuclear-Ath-LeuAAG-171817,Nuclear,CCA,Periodate Oxidation,0.531129713,0.562214176
+nuclear-Ath-LeuAAG-171817,Nuclear,Non-CC/CCA,Control,0.572069369,0.557725184
+nuclear-Ath-LeuAAG-171817,Nuclear,Non-CC/CCA,Periodate Oxidation,0.673730622,0.675951924
+nuclear-Ath-LeuAAG-171816,Nuclear,CCA,Control,0.736074026,0.7649012
+nuclear-Ath-LeuAAG-171816,Nuclear,CCA,Periodate Oxidation,0.535381242,0.567668782
+nuclear-Ath-LeuAAG-171816,Nuclear,Non-CC/CCA,Control,0.574146297,0.55887736
+nuclear-Ath-LeuAAG-171816,Nuclear,Non-CC/CCA,Periodate Oxidation,0.675940773,0.679197729
+nuclear-Ath-iMetCAT-171659,Nuclear,CCA,Control,0.669186334,0.765914662
+nuclear-Ath-iMetCAT-171659,Nuclear,CCA,Periodate Oxidation,0.454931973,0.489250501
+nuclear-Ath-iMetCAT-171659,Nuclear,Non-CC/CCA,Control,0.564093882,0.523650619
+nuclear-Ath-iMetCAT-171659,Nuclear,Non-CC/CCA,Periodate Oxidation,0.713837825,0.695990854
+nuclear-Ath-IleTAT-171764,Nuclear,CCA,Control,0.68757503,0.703306014
+nuclear-Ath-IleTAT-171764,Nuclear,CCA,Periodate Oxidation,0.457151237,0.487107522
+nuclear-Ath-IleTAT-171764,Nuclear,Non-CC/CCA,Control,0.517901006,0.52280419
+nuclear-Ath-IleTAT-171764,Nuclear,Non-CC/CCA,Periodate Oxidation,0.666335859,0.661040394
+nuclear-Ath-IleTAT-171721,Nuclear,CCA,Control,0.631851061,0.668282411
+nuclear-Ath-IleTAT-171721,Nuclear,CCA,Periodate Oxidation,0.447189352,0.460069894
+nuclear-Ath-IleTAT-171721,Nuclear,Non-CC/CCA,Control,0.351474105,0.363141279
+nuclear-Ath-IleTAT-171721,Nuclear,Non-CC/CCA,Periodate Oxidation,0.633548623,0.671817889
+nuclear-Ath-IleAAT-171736,Nuclear,CCA,Control,0.670731014,0.702258512
+nuclear-Ath-IleAAT-171736,Nuclear,CCA,Periodate Oxidation,0.428390264,0.468412944
+nuclear-Ath-IleAAT-171736,Nuclear,Non-CC/CCA,Control,0.645237151,0.655523707
+nuclear-Ath-IleAAT-171736,Nuclear,Non-CC/CCA,Periodate Oxidation,0.772189338,0.771571218
+nuclear-Ath-IleAAT-171735,Nuclear,CCA,Control,0.704338953,0.743147313
+nuclear-Ath-IleAAT-171735,Nuclear,CCA,Periodate Oxidation,0.465375299,0.501643751
+nuclear-Ath-IleAAT-171735,Nuclear,Non-CC/CCA,Control,0.60286447,0.610941385
+nuclear-Ath-IleAAT-171735,Nuclear,Non-CC/CCA,Periodate Oxidation,0.752543079,0.751238426
+nuclear-Ath-HisGTG-183748,Nuclear,CCA,Control,0.675829921,0.662641386
+nuclear-Ath-HisGTG-183748,Nuclear,CCA,Periodate Oxidation,0.340114987,0.438602543
+nuclear-Ath-HisGTG-183748,Nuclear,Non-CC/CCA,Control,0.348638955,0.380243197
+nuclear-Ath-HisGTG-183748,Nuclear,Non-CC/CCA,Periodate Oxidation,0.618969124,0.633383204
+nuclear-Ath-HisGTG-183747,Nuclear,CCA,Control,0.750630854,0.761335994
+nuclear-Ath-HisGTG-183747,Nuclear,CCA,Periodate Oxidation,0.405431246,0.47633061
+nuclear-Ath-HisGTG-183747,Nuclear,Non-CC/CCA,Control,0.390975366,0.400495822
+nuclear-Ath-HisGTG-183747,Nuclear,Non-CC/CCA,Periodate Oxidation,0.587065058,0.600949208
+nuclear-Ath-HisGTG-171770,Nuclear,CCA,Control,0.722529815,0.778749622
+nuclear-Ath-HisGTG-171770,Nuclear,CCA,Periodate Oxidation,0.382577854,0.443781725
+nuclear-Ath-HisGTG-171770,Nuclear,Non-CC/CCA,Control,0.460102902,0.472694053
+nuclear-Ath-HisGTG-171770,Nuclear,Non-CC/CCA,Periodate Oxidation,0.578451864,0.585699519
+nuclear-Ath-HisGTG-171768,Nuclear,CCA,Control,0.738720445,0.767135582
+nuclear-Ath-HisGTG-171768,Nuclear,CCA,Periodate Oxidation,0.398086626,0.441614897
+nuclear-Ath-HisGTG-171768,Nuclear,Non-CC/CCA,Control,0.47423995,0.486491316
+nuclear-Ath-HisGTG-171768,Nuclear,Non-CC/CCA,Periodate Oxidation,0.637181488,0.649818771
+nuclear-Ath-GlyTCC-171720,Nuclear,CCA,Control,0.712391124,0.7451322
+nuclear-Ath-GlyTCC-171720,Nuclear,CCA,Periodate Oxidation,0.392694531,0.437251691
+nuclear-Ath-GlyTCC-171720,Nuclear,Non-CC/CCA,Control,0.262729787,0.268321404
+nuclear-Ath-GlyTCC-171720,Nuclear,Non-CC/CCA,Periodate Oxidation,0.739428407,0.719394729
+nuclear-Ath-GlyGCC-171692,Nuclear,CCA,Control,0.739620939,0.767901649
+nuclear-Ath-GlyGCC-171692,Nuclear,CCA,Periodate Oxidation,0.61740113,0.57761282
+nuclear-Ath-GlyGCC-171692,Nuclear,Non-CC/CCA,Control,0.434260486,0.483150907
+nuclear-Ath-GlyGCC-171692,Nuclear,Non-CC/CCA,Periodate Oxidation,0.614785439,0.560490866
+nuclear-Ath-GlyGCC-171691,Nuclear,CCA,Control,0.792386448,0.816592329
+nuclear-Ath-GlyGCC-171691,Nuclear,CCA,Periodate Oxidation,0.572205104,0.604944759
+nuclear-Ath-GlyGCC-171691,Nuclear,Non-CC/CCA,Control,0.348032301,0.33282398
+nuclear-Ath-GlyGCC-171691,Nuclear,Non-CC/CCA,Periodate Oxidation,0.631317053,0.620649095
+nuclear-Ath-GlyGCC-171690,Nuclear,CCA,Control,0.803973863,0.82408311
+nuclear-Ath-GlyGCC-171690,Nuclear,CCA,Periodate Oxidation,0.632426158,0.660089934
+nuclear-Ath-GlyGCC-171690,Nuclear,Non-CC/CCA,Control,0.364706649,0.329930244
+nuclear-Ath-GlyGCC-171690,Nuclear,Non-CC/CCA,Periodate Oxidation,0.607817555,0.586942074
+nuclear-Ath-GlyGCC-171688,Nuclear,CCA,Control,0.809916333,0.828921655
+nuclear-Ath-GlyGCC-171688,Nuclear,CCA,Periodate Oxidation,0.56294938,0.60188421
+nuclear-Ath-GlyGCC-171688,Nuclear,Non-CC/CCA,Control,0.295103621,0.2838458
+nuclear-Ath-GlyGCC-171688,Nuclear,Non-CC/CCA,Periodate Oxidation,0.604352405,0.59631053
+nuclear-Ath-GlyCCC-171713,Nuclear,CCA,Control,0.736191826,0.754640626
+nuclear-Ath-GlyCCC-171713,Nuclear,CCA,Periodate Oxidation,0.49440614,0.520970822
+nuclear-Ath-GlyCCC-171713,Nuclear,Non-CC/CCA,Control,0.318671612,0.336074632
+nuclear-Ath-GlyCCC-171713,Nuclear,Non-CC/CCA,Periodate Oxidation,0.62185229,0.637257318
+nuclear-Ath-GluTTC-183764,Nuclear,CCA,Control,0.839946958,0.852347418
+nuclear-Ath-GluTTC-183764,Nuclear,CCA,Periodate Oxidation,0.620114623,0.665396486
+nuclear-Ath-GluTTC-183764,Nuclear,Non-CC/CCA,Control,0.283264697,0.267868992
+nuclear-Ath-GluTTC-183764,Nuclear,Non-CC/CCA,Periodate Oxidation,0.603249053,0.609779793
+nuclear-Ath-GluTTC-171826,Nuclear,CCA,Control,0.8583442,0.892176188
+nuclear-Ath-GluTTC-171826,Nuclear,CCA,Periodate Oxidation,0.632500333,0.63638381
+nuclear-Ath-GluTTC-171826,Nuclear,Non-CC/CCA,Control,0.246848816,0.234229796
+nuclear-Ath-GluTTC-171826,Nuclear,Non-CC/CCA,Periodate Oxidation,0.494205893,0.544579818
+nuclear-Ath-GluTTC-171822,Nuclear,CCA,Control,0.879276476,0.892134744
+nuclear-Ath-GluTTC-171822,Nuclear,CCA,Periodate Oxidation,0.671028941,0.691314536
+nuclear-Ath-GluTTC-171822,Nuclear,Non-CC/CCA,Control,0.189112977,0.186259063
+nuclear-Ath-GluTTC-171822,Nuclear,Non-CC/CCA,Periodate Oxidation,0.471162358,0.467985437
+nuclear-Ath-GluTTC-171820,Nuclear,CCA,Control,0.855394579,0.871002244
+nuclear-Ath-GluTTC-171820,Nuclear,CCA,Periodate Oxidation,0.620977103,0.658104734
+nuclear-Ath-GluTTC-171820,Nuclear,Non-CC/CCA,Control,0.208063784,0.202721132
+nuclear-Ath-GluTTC-171820,Nuclear,Non-CC/CCA,Periodate Oxidation,0.494542963,0.49884274
+nuclear-Ath-GluCTC-171825,Nuclear,CCA,Control,0.86313022,0.880667769
+nuclear-Ath-GluCTC-171825,Nuclear,CCA,Periodate Oxidation,0.703832863,0.725488779
+nuclear-Ath-GluCTC-171825,Nuclear,Non-CC/CCA,Control,0.19971822,0.21133481
+nuclear-Ath-GluCTC-171825,Nuclear,Non-CC/CCA,Periodate Oxidation,0.408842069,0.387872688
+nuclear-Ath-GluCTC-171824,Nuclear,CCA,Control,0.852283667,0.867679649
+nuclear-Ath-GluCTC-171824,Nuclear,CCA,Periodate Oxidation,0.695452814,0.702053966
+nuclear-Ath-GluCTC-171824,Nuclear,Non-CC/CCA,Control,0.219910985,0.21721818
+nuclear-Ath-GluCTC-171824,Nuclear,Non-CC/CCA,Periodate Oxidation,0.428027769,0.411684682
+nuclear-Ath-GluCTC-171821,Nuclear,CCA,Control,0.866420278,0.882324385
+nuclear-Ath-GluCTC-171821,Nuclear,CCA,Periodate Oxidation,0.694521264,0.716591925
+nuclear-Ath-GluCTC-171821,Nuclear,Non-CC/CCA,Control,0.224402565,0.216620569
+nuclear-Ath-GluCTC-171821,Nuclear,Non-CC/CCA,Periodate Oxidation,0.429106022,0.4198929
+nuclear-Ath-GlnTTG-183749,Nuclear,CCA,Control,0.811414446,0.82651539
+nuclear-Ath-GlnTTG-183749,Nuclear,CCA,Periodate Oxidation,0.365427164,0.406030641
+nuclear-Ath-GlnTTG-183749,Nuclear,Non-CC/CCA,Control,0.189096565,0.182812833
+nuclear-Ath-GlnTTG-183749,Nuclear,Non-CC/CCA,Periodate Oxidation,0.54687694,0.550369905
+nuclear-Ath-GlnTTG-171777,Nuclear,CCA,Control,0.739019097,0.765277256
+nuclear-Ath-GlnTTG-171777,Nuclear,CCA,Periodate Oxidation,0.335369499,0.368060231
+nuclear-Ath-GlnTTG-171777,Nuclear,Non-CC/CCA,Control,0.227238957,0.225468354
+nuclear-Ath-GlnTTG-171777,Nuclear,Non-CC/CCA,Periodate Oxidation,0.615335414,0.620907715
+nuclear-Ath-GlnCTG-171775,Nuclear,CCA,Control,0.842211083,0.863901348
+nuclear-Ath-GlnCTG-171775,Nuclear,CCA,Periodate Oxidation,0.467961062,0.503914103
+nuclear-Ath-GlnCTG-171775,Nuclear,Non-CC/CCA,Control,0.153514359,0.141968447
+nuclear-Ath-GlnCTG-171775,Nuclear,Non-CC/CCA,Periodate Oxidation,0.440700862,0.436166782
+nuclear-Ath-GlnCTG-171774,Nuclear,CCA,Control,0.818332773,0.826658287
+nuclear-Ath-GlnCTG-171774,Nuclear,CCA,Periodate Oxidation,0.448745615,0.473089995
+nuclear-Ath-GlnCTG-171774,Nuclear,Non-CC/CCA,Control,0.175635171,0.16773997
+nuclear-Ath-GlnCTG-171774,Nuclear,Non-CC/CCA,Periodate Oxidation,0.484921665,0.476919398
+nuclear-Ath-GlnCTG-171773,Nuclear,CCA,Control,0.826935895,0.870128884
+nuclear-Ath-GlnCTG-171773,Nuclear,CCA,Periodate Oxidation,0.439964148,0.492973088
+nuclear-Ath-GlnCTG-171773,Nuclear,Non-CC/CCA,Control,0.136010836,0.133770315
+nuclear-Ath-GlnCTG-171773,Nuclear,Non-CC/CCA,Periodate Oxidation,0.490131573,0.488853473
+nuclear-Ath-GlnCTG-171765,Nuclear,CCA,Control,0.838121049,0.872894684
+nuclear-Ath-GlnCTG-171765,Nuclear,CCA,Periodate Oxidation,0.455809726,0.526964093
+nuclear-Ath-GlnCTG-171765,Nuclear,Non-CC/CCA,Control,0.152971489,0.13281466
+nuclear-Ath-GlnCTG-171765,Nuclear,Non-CC/CCA,Periodate Oxidation,0.492711798,0.497939564
+nuclear-Ath-GlnCTG-171763,Nuclear,CCA,Control,0.858944488,0.870821992
+nuclear-Ath-GlnCTG-171763,Nuclear,CCA,Periodate Oxidation,0.557155697,0.576148676
+nuclear-Ath-GlnCTG-171763,Nuclear,Non-CC/CCA,Control,0.138210571,0.130899179
+nuclear-Ath-GlnCTG-171763,Nuclear,Non-CC/CCA,Periodate Oxidation,0.452842014,0.458325905
+nuclear-Ath-eMetCAT-171754,Nuclear,CCA,Control,0.695228767,0.72016824
+nuclear-Ath-eMetCAT-171754,Nuclear,CCA,Periodate Oxidation,0.434314437,0.473550632
+nuclear-Ath-eMetCAT-171754,Nuclear,Non-CC/CCA,Control,0.497042082,0.486884173
+nuclear-Ath-eMetCAT-171754,Nuclear,Non-CC/CCA,Periodate Oxidation,0.812867819,0.8066067
+nuclear-Ath-CysGCA-183742,Nuclear,CCA,Control,0.779105717,0.809205191
+nuclear-Ath-CysGCA-183742,Nuclear,CCA,Periodate Oxidation,0.489871412,0.529871318
+nuclear-Ath-CysGCA-183742,Nuclear,Non-CC/CCA,Control,0.159924398,0.148404626
+nuclear-Ath-CysGCA-183742,Nuclear,Non-CC/CCA,Periodate Oxidation,0.391588172,0.401808013
+nuclear-Ath-CysGCA-171759,Nuclear,CCA,Control,0.817221185,0.83741967
+nuclear-Ath-CysGCA-171759,Nuclear,CCA,Periodate Oxidation,0.535958543,0.538147925
+nuclear-Ath-CysGCA-171759,Nuclear,Non-CC/CCA,Control,0.206990413,0.1904824
+nuclear-Ath-CysGCA-171759,Nuclear,Non-CC/CCA,Periodate Oxidation,0.421632603,0.406331743
+nuclear-Ath-CysGCA-171758,Nuclear,CCA,Control,0.834806684,0.855663868
+nuclear-Ath-CysGCA-171758,Nuclear,CCA,Periodate Oxidation,0.522761412,0.542187897
+nuclear-Ath-CysGCA-171758,Nuclear,Non-CC/CCA,Control,0.20231667,0.203202227
+nuclear-Ath-CysGCA-171758,Nuclear,Non-CC/CCA,Periodate Oxidation,0.498145627,0.480573464
+nuclear-Ath-CysGCA-171757,Nuclear,CCA,Control,0.777407686,0.824523258
+nuclear-Ath-CysGCA-171757,Nuclear,CCA,Periodate Oxidation,0.53597786,0.647164878
+nuclear-Ath-CysGCA-171757,Nuclear,Non-CC/CCA,Control,0.240819442,0.183661604
+nuclear-Ath-CysGCA-171757,Nuclear,Non-CC/CCA,Periodate Oxidation,0.470435149,0.473805879
+nuclear-Ath-CysGCA-171756,Nuclear,CCA,Control,0.808898305,0.807465132
+nuclear-Ath-CysGCA-171756,Nuclear,CCA,Periodate Oxidation,0.522244962,0.548807147
+nuclear-Ath-CysGCA-171756,Nuclear,Non-CC/CCA,Control,0.222309295,0.205123047
+nuclear-Ath-CysGCA-171756,Nuclear,Non-CC/CCA,Periodate Oxidation,0.550399038,0.541907607
+nuclear-Ath-CysGCA-171742,Nuclear,CCA,Control,0.809868875,0.764904911
+nuclear-Ath-CysGCA-171742,Nuclear,CCA,Periodate Oxidation,0.480022198,0.478256419
+nuclear-Ath-CysGCA-171742,Nuclear,Non-CC/CCA,Control,0.242037987,0.254494253
+nuclear-Ath-CysGCA-171742,Nuclear,Non-CC/CCA,Periodate Oxidation,0.468286311,0.457590283
+nuclear-Ath-CysGCA-171684,Nuclear,CCA,Control,0.884119164,0.914161381
+nuclear-Ath-CysGCA-171684,Nuclear,CCA,Periodate Oxidation,0.520235654,0.565303342
+nuclear-Ath-CysGCA-171684,Nuclear,Non-CC/CCA,Control,0.112144319,0.106378411
+nuclear-Ath-CysGCA-171684,Nuclear,Non-CC/CCA,Periodate Oxidation,0.393570218,0.37092468
+nuclear-Ath-AspGTC-171804,Nuclear,CCA,Control,0.644560066,0.686855471
+nuclear-Ath-AspGTC-171804,Nuclear,CCA,Periodate Oxidation,0.471280938,0.503940884
+nuclear-Ath-AspGTC-171804,Nuclear,Non-CC/CCA,Control,0.227517248,0.219435864
+nuclear-Ath-AspGTC-171804,Nuclear,Non-CC/CCA,Periodate Oxidation,0.467491472,0.458989731
+nuclear-Ath-AsnGTT-183739,Nuclear,CCA,Control,0.745655061,0.759653429
+nuclear-Ath-AsnGTT-183739,Nuclear,CCA,Periodate Oxidation,0.490040597,0.560530979
+nuclear-Ath-AsnGTT-183739,Nuclear,Non-CC/CCA,Control,0.368808178,0.385827125
+nuclear-Ath-AsnGTT-183739,Nuclear,Non-CC/CCA,Periodate Oxidation,0.669750578,0.674037792
+nuclear-Ath-AsnGTT-183738,Nuclear,CCA,Control,0.715360405,0.724207243
+nuclear-Ath-AsnGTT-183738,Nuclear,CCA,Periodate Oxidation,0.492010089,0.532742838
+nuclear-Ath-AsnGTT-183738,Nuclear,Non-CC/CCA,Control,0.411951886,0.428083086
+nuclear-Ath-AsnGTT-183738,Nuclear,Non-CC/CCA,Periodate Oxidation,0.641769608,0.635546588
+nuclear-Ath-AsnGTT-183736,Nuclear,CCA,Control,0.731732076,0.749260702
+nuclear-Ath-AsnGTT-183736,Nuclear,CCA,Periodate Oxidation,0.562525337,0.570984484
+nuclear-Ath-AsnGTT-183736,Nuclear,Non-CC/CCA,Control,0.357061688,0.368507909
+nuclear-Ath-AsnGTT-183736,Nuclear,Non-CC/CCA,Periodate Oxidation,0.582371206,0.578249602
+nuclear-Ath-AsnGTT-171729,Nuclear,CCA,Control,0.739229899,0.757772544
+nuclear-Ath-AsnGTT-171729,Nuclear,CCA,Periodate Oxidation,0.496089149,0.537755384
+nuclear-Ath-AsnGTT-171729,Nuclear,Non-CC/CCA,Control,0.378290845,0.394363767
+nuclear-Ath-AsnGTT-171729,Nuclear,Non-CC/CCA,Periodate Oxidation,0.67417526,0.665451479
+nuclear-Ath-AsnGTT-171727,Nuclear,CCA,Control,0.719948734,0.734667499
+nuclear-Ath-AsnGTT-171727,Nuclear,CCA,Periodate Oxidation,0.510087558,0.538102094
+nuclear-Ath-AsnGTT-171727,Nuclear,Non-CC/CCA,Control,0.40905915,0.430266415
+nuclear-Ath-AsnGTT-171727,Nuclear,Non-CC/CCA,Periodate Oxidation,0.648747799,0.651946417
+nuclear-Ath-AsnGTT-171725,Nuclear,CCA,Control,0.671666667,0.701740191
+nuclear-Ath-AsnGTT-171725,Nuclear,CCA,Periodate Oxidation,0.474410801,0.527589134
+nuclear-Ath-AsnGTT-171725,Nuclear,Non-CC/CCA,Control,0.418979745,0.411799655
+nuclear-Ath-AsnGTT-171725,Nuclear,Non-CC/CCA,Periodate Oxidation,0.630308049,0.646205866
+nuclear-Ath-ArgTCT-171717,Nuclear,CCA,Control,0.836466046,0.861573951
+nuclear-Ath-ArgTCT-171717,Nuclear,CCA,Periodate Oxidation,0.618593857,0.624675325
+nuclear-Ath-ArgTCT-171717,Nuclear,Non-CC/CCA,Control,0.248911122,0.28059934
+nuclear-Ath-ArgTCT-171717,Nuclear,Non-CC/CCA,Periodate Oxidation,0.574032705,0.580297692
+nuclear-Ath-ArgTCT-171714,Nuclear,CCA,Control,0.861759668,0.870280279
+nuclear-Ath-ArgTCT-171714,Nuclear,CCA,Periodate Oxidation,0.64694459,0.665343471
+nuclear-Ath-ArgTCT-171714,Nuclear,Non-CC/CCA,Control,0.225607466,0.242512108
+nuclear-Ath-ArgTCT-171714,Nuclear,Non-CC/CCA,Periodate Oxidation,0.53176116,0.536714616
+nuclear-Ath-ArgTCT-171696,Nuclear,CCA,Control,0.870063112,0.883060487
+nuclear-Ath-ArgTCT-171696,Nuclear,CCA,Periodate Oxidation,0.622033743,0.664702793
+nuclear-Ath-ArgTCT-171696,Nuclear,Non-CC/CCA,Control,0.363071234,0.377053692
+nuclear-Ath-ArgTCT-171696,Nuclear,Non-CC/CCA,Periodate Oxidation,0.687657562,0.69994354
+nuclear-Ath-ArgTCT-171695,Nuclear,CCA,Control,0.865437583,0.879470003
+nuclear-Ath-ArgTCT-171695,Nuclear,CCA,Periodate Oxidation,0.639006244,0.676183539
+nuclear-Ath-ArgTCT-171695,Nuclear,Non-CC/CCA,Control,0.354351852,0.357760756
+nuclear-Ath-ArgTCT-171695,Nuclear,Non-CC/CCA,Periodate Oxidation,0.691803594,0.68351138
+nuclear-Ath-ArgTCT-171694,Nuclear,CCA,Control,0.864601217,0.881306664
+nuclear-Ath-ArgTCT-171694,Nuclear,CCA,Periodate Oxidation,0.616685878,0.654580953
+nuclear-Ath-ArgTCT-171694,Nuclear,Non-CC/CCA,Control,0.397385883,0.399060607
+nuclear-Ath-ArgTCT-171694,Nuclear,Non-CC/CCA,Periodate Oxidation,0.736211279,0.736028412
+nuclear-Ath-ArgTCT-171693,Nuclear,CCA,Control,0.84620986,0.861294923
+nuclear-Ath-ArgTCT-171693,Nuclear,CCA,Periodate Oxidation,0.582599813,0.618500092
+nuclear-Ath-ArgTCT-171693,Nuclear,Non-CC/CCA,Control,0.379343497,0.374891157
+nuclear-Ath-ArgTCT-171693,Nuclear,Non-CC/CCA,Periodate Oxidation,0.709698904,0.704599792
+nuclear-Ath-ArgTCG-171677,Nuclear,CCA,Control,0.637779795,0.671305457
+nuclear-Ath-ArgTCG-171677,Nuclear,CCA,Periodate Oxidation,0.39374913,0.435053762
+nuclear-Ath-ArgTCG-171677,Nuclear,Non-CC/CCA,Control,0.26111982,0.260044827
+nuclear-Ath-ArgTCG-171677,Nuclear,Non-CC/CCA,Periodate Oxidation,0.555353374,0.542512225
+nuclear-Ath-ArgTCG-171676,Nuclear,CCA,Control,0.632321926,0.672219747
+nuclear-Ath-ArgTCG-171676,Nuclear,CCA,Periodate Oxidation,0.383535194,0.416134788
+nuclear-Ath-ArgTCG-171676,Nuclear,Non-CC/CCA,Control,0.296981868,0.288137226
+nuclear-Ath-ArgTCG-171676,Nuclear,Non-CC/CCA,Periodate Oxidation,0.591273577,0.586120696
+nuclear-Ath-ArgCCT-171719,Nuclear,CCA,Control,0.650480368,0.664177781
+nuclear-Ath-ArgCCT-171719,Nuclear,CCA,Periodate Oxidation,0.404349785,0.425440123
+nuclear-Ath-ArgCCT-171719,Nuclear,Non-CC/CCA,Control,0.401337405,0.398477321
+nuclear-Ath-ArgCCT-171719,Nuclear,Non-CC/CCA,Periodate Oxidation,0.657484119,0.668193526
+nuclear-Ath-ArgCCT-171716,Nuclear,CCA,Control,0.695473346,0.719394922
+nuclear-Ath-ArgCCT-171716,Nuclear,CCA,Periodate Oxidation,0.451127517,0.476471412
+nuclear-Ath-ArgCCT-171716,Nuclear,Non-CC/CCA,Control,0.287750366,0.283151871
+nuclear-Ath-ArgCCT-171716,Nuclear,Non-CC/CCA,Periodate Oxidation,0.574219308,0.584676607
+nuclear-Ath-ArgCCT-171715,Nuclear,CCA,Control,0.668178721,0.698255358
+nuclear-Ath-ArgCCT-171715,Nuclear,CCA,Periodate Oxidation,0.466319729,0.444307813
+nuclear-Ath-ArgCCT-171715,Nuclear,Non-CC/CCA,Control,0.310727478,0.307082714
+nuclear-Ath-ArgCCT-171715,Nuclear,Non-CC/CCA,Periodate Oxidation,0.54712104,0.560666563
+nuclear-Ath-ArgCCG-183763,Nuclear,CCA,Control,0.715423629,0.729059312
+nuclear-Ath-ArgCCG-183763,Nuclear,CCA,Periodate Oxidation,0.51083603,0.51532906
+nuclear-Ath-ArgCCG-183763,Nuclear,Non-CC/CCA,Control,0.29589013,0.32363489
+nuclear-Ath-ArgCCG-183763,Nuclear,Non-CC/CCA,Periodate Oxidation,0.527571184,0.59190775
+nuclear-Ath-ArgCCG-171686,Nuclear,CCA,Control,0.77484393,0.778655523
+nuclear-Ath-ArgCCG-171686,Nuclear,CCA,Periodate Oxidation,0.517729314,0.521772962
+nuclear-Ath-ArgCCG-171686,Nuclear,Non-CC/CCA,Control,0.376705216,0.37395359
+nuclear-Ath-ArgCCG-171686,Nuclear,Non-CC/CCA,Periodate Oxidation,0.662142352,0.678496996
+nuclear-Ath-ArgCCG-171678,Nuclear,CCA,Control,0.726673843,0.761614415
+nuclear-Ath-ArgCCG-171678,Nuclear,CCA,Periodate Oxidation,0.570125397,0.569893088
+nuclear-Ath-ArgCCG-171678,Nuclear,Non-CC/CCA,Control,0.245621309,0.240806715
+nuclear-Ath-ArgCCG-171678,Nuclear,Non-CC/CCA,Periodate Oxidation,0.443645421,0.458646376
+nuclear-Ath-ArgACG-171772,Nuclear,CCA,Control,0.729359823,0.726361641
+nuclear-Ath-ArgACG-171772,Nuclear,CCA,Periodate Oxidation,0.4270812,0.465428558
+nuclear-Ath-ArgACG-171772,Nuclear,Non-CC/CCA,Control,0.358125933,0.347345505
+nuclear-Ath-ArgACG-171772,Nuclear,Non-CC/CCA,Periodate Oxidation,0.659946208,0.658845794
+nuclear-Ath-ArgACG-171683,Nuclear,CCA,Control,0.681460176,0.741659494
+nuclear-Ath-ArgACG-171683,Nuclear,CCA,Periodate Oxidation,0.451748451,0.495817443
+nuclear-Ath-ArgACG-171683,Nuclear,Non-CC/CCA,Control,0.293457591,0.260296738
+nuclear-Ath-ArgACG-171683,Nuclear,Non-CC/CCA,Periodate Oxidation,0.64772738,0.627479839
+nuclear-Ath-ArgACG-171682,Nuclear,CCA,Control,0.635031628,0.666080993
+nuclear-Ath-ArgACG-171682,Nuclear,CCA,Periodate Oxidation,0.478385783,0.527022739
+nuclear-Ath-ArgACG-171682,Nuclear,Non-CC/CCA,Control,0.188835888,0.18414283
+nuclear-Ath-ArgACG-171682,Nuclear,Non-CC/CCA,Periodate Oxidation,0.493743604,0.47061705
+nuclear-Ath-ArgACG-171681,Nuclear,CCA,Control,0.563378228,0.620334916
+nuclear-Ath-ArgACG-171681,Nuclear,CCA,Periodate Oxidation,0.46933007,0.536659923
+nuclear-Ath-ArgACG-171681,Nuclear,Non-CC/CCA,Control,0.177073416,0.168220174
+nuclear-Ath-ArgACG-171681,Nuclear,Non-CC/CCA,Periodate Oxidation,0.484029448,0.446192692
+nuclear-Ath-ArgACG-171680,Nuclear,CCA,Control,0.742827429,0.763816563
+nuclear-Ath-ArgACG-171680,Nuclear,CCA,Periodate Oxidation,0.485263553,0.544207818
+nuclear-Ath-ArgACG-171680,Nuclear,Non-CC/CCA,Control,0.211845276,0.202228733
+nuclear-Ath-ArgACG-171680,Nuclear,Non-CC/CCA,Periodate Oxidation,0.558775683,0.531227331
+nuclear-Ath-ArgACG-171679,Nuclear,CCA,Control,0.692057872,0.716851169
+nuclear-Ath-ArgACG-171679,Nuclear,CCA,Periodate Oxidation,0.451253246,0.551906869
+nuclear-Ath-ArgACG-171679,Nuclear,Non-CC/CCA,Control,0.285014197,0.261165282
+nuclear-Ath-ArgACG-171679,Nuclear,Non-CC/CCA,Periodate Oxidation,0.56271023,0.520259796
+nuclear-Ath-AlaTGC-171751,Nuclear,CCA,Control,0.64034291,0.664892915
+nuclear-Ath-AlaTGC-171751,Nuclear,CCA,Periodate Oxidation,0.382750383,0.434487452
+nuclear-Ath-AlaTGC-171751,Nuclear,Non-CC/CCA,Control,0.599474761,0.605758426
+nuclear-Ath-AlaTGC-171751,Nuclear,Non-CC/CCA,Periodate Oxidation,0.812941875,0.81975514
+nuclear-Ath-AlaTGC-171747,Nuclear,CCA,Control,0.616001897,0.638689783
+nuclear-Ath-AlaTGC-171747,Nuclear,CCA,Periodate Oxidation,0.373965518,0.408138326
+nuclear-Ath-AlaTGC-171747,Nuclear,Non-CC/CCA,Control,0.635819729,0.64080917
+nuclear-Ath-AlaTGC-171747,Nuclear,Non-CC/CCA,Periodate Oxidation,0.835283535,0.83731337
+nuclear-Ath-AlaCGC-183744,Nuclear,CCA,Control,0.639852218,0.653021673
+nuclear-Ath-AlaCGC-183744,Nuclear,CCA,Periodate Oxidation,0.39500663,0.431112952
+nuclear-Ath-AlaCGC-183744,Nuclear,Non-CC/CCA,Control,0.581716419,0.596285362
+nuclear-Ath-AlaCGC-183744,Nuclear,Non-CC/CCA,Periodate Oxidation,0.807247822,0.805429113
+nuclear-Ath-AlaCGC-171752,Nuclear,CCA,Control,0.672002618,0.68569965
+nuclear-Ath-AlaCGC-171752,Nuclear,CCA,Periodate Oxidation,0.391249617,0.419321529
+nuclear-Ath-AlaCGC-171752,Nuclear,Non-CC/CCA,Control,0.589966945,0.590265942
+nuclear-Ath-AlaCGC-171752,Nuclear,Non-CC/CCA,Periodate Oxidation,0.833128441,0.831969189
+nuclear-Ath-AlaCGC-171750,Nuclear,CCA,Control,0.656109016,0.680553385
+nuclear-Ath-AlaCGC-171750,Nuclear,CCA,Periodate Oxidation,0.390629362,0.437318017
+nuclear-Ath-AlaCGC-171750,Nuclear,Non-CC/CCA,Control,0.649964076,0.649602815
+nuclear-Ath-AlaCGC-171750,Nuclear,Non-CC/CCA,Periodate Oxidation,0.852335223,0.853978334
+nuclear-Ath-AlaAGC-183743,Nuclear,CCA,Control,0.612933171,0.630411529
+nuclear-Ath-AlaAGC-183743,Nuclear,CCA,Periodate Oxidation,0.389035073,0.414780985
+nuclear-Ath-AlaAGC-183743,Nuclear,Non-CC/CCA,Control,0.603752733,0.609547301
+nuclear-Ath-AlaAGC-183743,Nuclear,Non-CC/CCA,Periodate Oxidation,0.788977473,0.799386757
+nuclear-Ath-AlaAGC-171749,Nuclear,CCA,Control,0.611055854,0.63941123
+nuclear-Ath-AlaAGC-171749,Nuclear,CCA,Periodate Oxidation,0.377002218,0.410238702
+nuclear-Ath-AlaAGC-171749,Nuclear,Non-CC/CCA,Control,0.667348568,0.672981015
+nuclear-Ath-AlaAGC-171749,Nuclear,Non-CC/CCA,Periodate Oxidation,0.829039835,0.836851925
+nuclear-Ath-AlaAGC-171748,Nuclear,CCA,Control,0.631812647,0.661791578
+nuclear-Ath-AlaAGC-171748,Nuclear,CCA,Periodate Oxidation,0.396555295,0.422974045
+nuclear-Ath-AlaAGC-171748,Nuclear,Non-CC/CCA,Control,0.653090508,0.659001145
+nuclear-Ath-AlaAGC-171748,Nuclear,Non-CC/CCA,Periodate Oxidation,0.813745719,0.823847284
+plastid-Ath-ValTAC-171874,Plastid,CCA,Control,0.837069802,0.84473
+plastid-Ath-ValTAC-171874,Plastid,CCA,Periodate Oxidation,0.647147997,0.634663766
+plastid-Ath-ValTAC-171874,Plastid,Non-CC/CCA,Control,0.252829988,0.250218478
+plastid-Ath-ValTAC-171874,Plastid,Non-CC/CCA,Periodate Oxidation,0.343537286,0.337005548
+plastid-Ath-ValGAC-171873,Plastid,CCA,Control,0.872048851,0.881783242
+plastid-Ath-ValGAC-171873,Plastid,CCA,Periodate Oxidation,0.70254501,0.70971621
+plastid-Ath-ValGAC-171873,Plastid,Non-CC/CCA,Control,0.261717069,0.259987876
+plastid-Ath-ValGAC-171873,Plastid,Non-CC/CCA,Periodate Oxidation,0.31499437,0.295183921
+plastid-Ath-TyrGTA-171872,Plastid,CCA,Control,0.848684036,0.859614943
+plastid-Ath-TyrGTA-171872,Plastid,CCA,Periodate Oxidation,0.640018401,0.653982808
+plastid-Ath-TyrGTA-171872,Plastid,Non-CC/CCA,Control,0.235398014,0.230142841
+plastid-Ath-TyrGTA-171872,Plastid,Non-CC/CCA,Periodate Oxidation,0.51950381,0.521788508
+plastid-Ath-TrpCCA-171871,Plastid,CCA,Control,0.817923251,0.836796844
+plastid-Ath-TrpCCA-171871,Plastid,CCA,Periodate Oxidation,0.536883632,0.56654572
+plastid-Ath-TrpCCA-171871,Plastid,Non-CC/CCA,Control,0.192996323,0.186662827
+plastid-Ath-TrpCCA-171871,Plastid,Non-CC/CCA,Periodate Oxidation,0.475959882,0.450147186
+plastid-Ath-ThrTGT-171870,Plastid,CCA,Control,0.863174277,0.872252997
+plastid-Ath-ThrTGT-171870,Plastid,CCA,Periodate Oxidation,0.676999234,0.691163282
+plastid-Ath-ThrTGT-171870,Plastid,Non-CC/CCA,Control,0.11122256,0.115503041
+plastid-Ath-ThrTGT-171870,Plastid,Non-CC/CCA,Periodate Oxidation,0.22949146,0.24211642
+plastid-Ath-ThrGGT-171869,Plastid,CCA,Control,0.838552897,0.853575291
+plastid-Ath-ThrGGT-171869,Plastid,CCA,Periodate Oxidation,0.672667779,0.670907894
+plastid-Ath-ThrGGT-171869,Plastid,Non-CC/CCA,Control,0.099088707,0.10891184
+plastid-Ath-ThrGGT-171869,Plastid,Non-CC/CCA,Periodate Oxidation,0.214988094,0.218529652
+plastid-Ath-SerTGA-171867,Plastid,CCA,Control,0.893885096,0.906027806
+plastid-Ath-SerTGA-171867,Plastid,CCA,Periodate Oxidation,0.735919887,0.768948474
+plastid-Ath-SerTGA-171867,Plastid,Non-CC/CCA,Control,0.136307186,0.132775093
+plastid-Ath-SerTGA-171867,Plastid,Non-CC/CCA,Periodate Oxidation,0.325815655,0.31196911
+plastid-Ath-SerGGA-171866,Plastid,CCA,Control,0.698624085,0.723070461
+plastid-Ath-SerGGA-171866,Plastid,CCA,Periodate Oxidation,0.664161679,0.69060852
+plastid-Ath-SerGGA-171866,Plastid,Non-CC/CCA,Control,0.528286902,0.490857781
+plastid-Ath-SerGGA-171866,Plastid,Non-CC/CCA,Periodate Oxidation,0.564519648,0.575164389
+plastid-Ath-SerGCT-171868,Plastid,CCA,Control,0.838311365,0.8543074
+plastid-Ath-SerGCT-171868,Plastid,CCA,Periodate Oxidation,0.741559186,0.760720838
+plastid-Ath-SerGCT-171868,Plastid,Non-CC/CCA,Control,0.338812428,0.34066914
+plastid-Ath-SerGCT-171868,Plastid,Non-CC/CCA,Periodate Oxidation,0.391359395,0.403526544
+plastid-Ath-ProTGG-171865,Plastid,CCA,Control,0.830738955,0.844444897
+plastid-Ath-ProTGG-171865,Plastid,CCA,Periodate Oxidation,0.676590082,0.660277111
+plastid-Ath-ProTGG-171865,Plastid,Non-CC/CCA,Control,0.154695736,0.161830884
+plastid-Ath-ProTGG-171865,Plastid,Non-CC/CCA,Periodate Oxidation,0.297088906,0.285964093
+plastid-Ath-PheGAA-171864,Plastid,CCA,Control,0.663417898,0.697417639
+plastid-Ath-PheGAA-171864,Plastid,CCA,Periodate Oxidation,0.587771508,0.58101686
+plastid-Ath-PheGAA-171864,Plastid,Non-CC/CCA,Control,0.436264967,0.41741707
+plastid-Ath-PheGAA-171864,Plastid,Non-CC/CCA,Periodate Oxidation,0.692190502,0.677127212
+plastid-Ath-LysTTT-171861,Plastid,CCA,Control,0.787016505,0.790028153
+plastid-Ath-LysTTT-171861,Plastid,CCA,Periodate Oxidation,0.538919427,0.547967547
+plastid-Ath-LysTTT-171861,Plastid,Non-CC/CCA,Control,0.382201816,0.368708738
+plastid-Ath-LysTTT-171861,Plastid,Non-CC/CCA,Periodate Oxidation,0.666147856,0.636800139
+plastid-Ath-LeuTAG-171858,Plastid,CCA,Control,0.718073765,0.759495486
+plastid-Ath-LeuTAG-171858,Plastid,CCA,Periodate Oxidation,0.674952297,0.678238704
+plastid-Ath-LeuTAG-171858,Plastid,Non-CC/CCA,Control,0.237406041,0.233402502
+plastid-Ath-LeuTAG-171858,Plastid,Non-CC/CCA,Periodate Oxidation,0.369399046,0.377201507
+plastid-Ath-LeuTAA-171860,Plastid,CCA,Control,0.738462043,0.755444002
+plastid-Ath-LeuTAA-171860,Plastid,CCA,Periodate Oxidation,0.572874454,0.597960185
+plastid-Ath-LeuTAA-171860,Plastid,Non-CC/CCA,Control,0.654010576,0.664051561
+plastid-Ath-LeuTAA-171860,Plastid,Non-CC/CCA,Periodate Oxidation,0.729680039,0.738937793
+plastid-Ath-LeuCAA-171859,Plastid,CCA,Control,0.769520682,0.787774987
+plastid-Ath-LeuCAA-171859,Plastid,CCA,Periodate Oxidation,0.574297486,0.59878218
+plastid-Ath-LeuCAA-171859,Plastid,Non-CC/CCA,Control,0.319709224,0.311130879
+plastid-Ath-LeuCAA-171859,Plastid,Non-CC/CCA,Periodate Oxidation,0.561177966,0.563881587
+plastid-Ath-iMetCAT-171863,Plastid,CCA,Control,0.754549084,0.789218265
+plastid-Ath-iMetCAT-171863,Plastid,CCA,Periodate Oxidation,0.724458338,0.723488796
+plastid-Ath-iMetCAT-171863,Plastid,Non-CC/CCA,Control,0.714669479,0.68994593
+plastid-Ath-iMetCAT-171863,Plastid,Non-CC/CCA,Periodate Oxidation,0.613723269,0.629216413
+plastid-Ath-IleGAT-171857,Plastid,CCA,Control,0.728247103,0.741081913
+plastid-Ath-IleGAT-171857,Plastid,CCA,Periodate Oxidation,0.486027012,0.50573241
+plastid-Ath-IleGAT-171857,Plastid,Non-CC/CCA,Control,0.57216188,0.577752487
+plastid-Ath-IleGAT-171857,Plastid,Non-CC/CCA,Periodate Oxidation,0.657918581,0.655961826
+plastid-Ath-IleCAT-171856,Plastid,CCA,Control,0.76651565,0.785432827
+plastid-Ath-IleCAT-171856,Plastid,CCA,Periodate Oxidation,0.530426283,0.569886066
+plastid-Ath-IleCAT-171856,Plastid,Non-CC/CCA,Control,0.646365398,0.669091745
+plastid-Ath-IleCAT-171856,Plastid,Non-CC/CCA,Periodate Oxidation,0.850321995,0.862154849
+plastid-Ath-HisGTG-171855,Plastid,CCA,Control,0.907910792,0.913739369
+plastid-Ath-HisGTG-171855,Plastid,CCA,Periodate Oxidation,0.656665653,0.638448851
+plastid-Ath-HisGTG-171855,Plastid,Non-CC/CCA,Control,0.122381459,0.120287733
+plastid-Ath-HisGTG-171855,Plastid,Non-CC/CCA,Periodate Oxidation,0.385970388,0.37978091
+plastid-Ath-GlyTCC-171854,Plastid,CCA,Control,0.92267438,0.932392995
+plastid-Ath-GlyTCC-171854,Plastid,CCA,Periodate Oxidation,0.686183867,0.713309042
+plastid-Ath-GlyTCC-171854,Plastid,Non-CC/CCA,Control,0.084211767,0.093722211
+plastid-Ath-GlyTCC-171854,Plastid,Non-CC/CCA,Periodate Oxidation,0.429672038,0.415068044
+plastid-Ath-GlyGCC-171853,Plastid,CCA,Control,0.928253055,0.928519649
+plastid-Ath-GlyGCC-171853,Plastid,CCA,Periodate Oxidation,0.732762721,0.743487022
+plastid-Ath-GlyGCC-171853,Plastid,Non-CC/CCA,Control,0.103760348,0.113495263
+plastid-Ath-GlyGCC-171853,Plastid,Non-CC/CCA,Periodate Oxidation,0.585750402,0.544107018
+plastid-Ath-GluTTC-171852,Plastid,CCA,Control,0.864206955,0.879190904
+plastid-Ath-GluTTC-171852,Plastid,CCA,Periodate Oxidation,0.69002917,0.70337553
+plastid-Ath-GluTTC-171852,Plastid,Non-CC/CCA,Control,0.230239944,0.215257552
+plastid-Ath-GluTTC-171852,Plastid,Non-CC/CCA,Periodate Oxidation,0.489676606,0.495968986
+plastid-Ath-GlnTTG-171851,Plastid,CCA,Control,0.807691975,0.824586748
+plastid-Ath-GlnTTG-171851,Plastid,CCA,Periodate Oxidation,0.676083861,0.688428393
+plastid-Ath-GlnTTG-171851,Plastid,Non-CC/CCA,Control,0.302628818,0.291737478
+plastid-Ath-GlnTTG-171851,Plastid,Non-CC/CCA,Periodate Oxidation,0.525206843,0.533123327
+plastid-Ath-eMetCAT-171862,Plastid,CCA,Control,0.860548906,0.875010065
+plastid-Ath-eMetCAT-171862,Plastid,CCA,Periodate Oxidation,0.632121272,0.64960051
+plastid-Ath-eMetCAT-171862,Plastid,Non-CC/CCA,Control,0.147638612,0.145408398
+plastid-Ath-eMetCAT-171862,Plastid,Non-CC/CCA,Periodate Oxidation,0.341307973,0.348608126
+plastid-Ath-CysGCA-171850,Plastid,CCA,Control,0.877324884,0.884836718
+plastid-Ath-CysGCA-171850,Plastid,CCA,Periodate Oxidation,0.676732658,0.7094082
+plastid-Ath-CysGCA-171850,Plastid,Non-CC/CCA,Control,0.123781171,0.131273791
+plastid-Ath-CysGCA-171850,Plastid,Non-CC/CCA,Periodate Oxidation,0.40453619,0.394638298
+plastid-Ath-AspGTC-171849,Plastid,CCA,Control,0.7095525,0.734343708
+plastid-Ath-AspGTC-171849,Plastid,CCA,Periodate Oxidation,0.519951968,0.517226479
+plastid-Ath-AspGTC-171849,Plastid,Non-CC/CCA,Control,0.411018096,0.396192298
+plastid-Ath-AspGTC-171849,Plastid,Non-CC/CCA,Periodate Oxidation,0.60548469,0.618226277
+plastid-Ath-AsnGTT-171848,Plastid,CCA,Control,0.887979978,0.89783431
+plastid-Ath-AsnGTT-171848,Plastid,CCA,Periodate Oxidation,0.787583648,0.792791793
+plastid-Ath-AsnGTT-171848,Plastid,Non-CC/CCA,Control,0.199269103,0.184027285
+plastid-Ath-AsnGTT-171848,Plastid,Non-CC/CCA,Periodate Oxidation,0.333092747,0.341813473
+plastid-Ath-ArgTCT-171846,Plastid,CCA,Control,0.840127302,0.845987394
+plastid-Ath-ArgTCT-171846,Plastid,CCA,Periodate Oxidation,0.633540006,0.658992097
+plastid-Ath-ArgTCT-171846,Plastid,Non-CC/CCA,Control,0.168036134,0.15860513
+plastid-Ath-ArgTCT-171846,Plastid,Non-CC/CCA,Periodate Oxidation,0.473313952,0.477402151
+plastid-Ath-ArgACG-171847,Plastid,CCA,Control,0.764809706,0.765708522
+plastid-Ath-ArgACG-171847,Plastid,CCA,Periodate Oxidation,0.494007221,0.509257014
+plastid-Ath-ArgACG-171847,Plastid,Non-CC/CCA,Control,0.336516139,0.35634228
+plastid-Ath-ArgACG-171847,Plastid,Non-CC/CCA,Periodate Oxidation,0.624614363,0.653143972
+plastid-Ath-AlaTGC-171845,Plastid,CCA,Control,0.674125408,0.684002157
+plastid-Ath-AlaTGC-171845,Plastid,CCA,Periodate Oxidation,0.473225341,0.483955332
+plastid-Ath-AlaTGC-171845,Plastid,Non-CC/CCA,Control,0.573225208,0.567249073
+plastid-Ath-AlaTGC-171845,Plastid,Non-CC/CCA,Periodate Oxidation,0.729329672,0.730975261
+mitochondrial-Ath-TyrGTA-171844,Mitochondrial,CCA,Control,0.768302124,0.786592306
+mitochondrial-Ath-TyrGTA-171844,Mitochondrial,CCA,Periodate Oxidation,0.605984461,0.610752183
+mitochondrial-Ath-TyrGTA-171844,Mitochondrial,Non-CC/CCA,Control,0.479709886,0.454278091
+mitochondrial-Ath-TyrGTA-171844,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.703641974,0.705656617
+mitochondrial-Ath-TrpCCA-171842,Mitochondrial,CCA,Control,0.804762676,0.83205746
+mitochondrial-Ath-TrpCCA-171842,Mitochondrial,CCA,Periodate Oxidation,0.530004881,0.552804801
+mitochondrial-Ath-TrpCCA-171842,Mitochondrial,Non-CC/CCA,Control,0.18593413,0.173907522
+mitochondrial-Ath-TrpCCA-171842,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.487793554,0.479840768
+mitochondrial-Ath-SerTGA-171841,Mitochondrial,CCA,Control,0.798223073,0.826259785
+mitochondrial-Ath-SerTGA-171841,Mitochondrial,CCA,Periodate Oxidation,0.748926655,0.747030475
+mitochondrial-Ath-SerTGA-171841,Mitochondrial,Non-CC/CCA,Control,0.207705877,0.189355426
+mitochondrial-Ath-SerTGA-171841,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.392105263,0.403365132
+mitochondrial-Ath-SerGCT-171840,Mitochondrial,CCA,Control,0.686147186,0.715142496
+mitochondrial-Ath-SerGCT-171840,Mitochondrial,CCA,Periodate Oxidation,0.756455358,0.736181542
+mitochondrial-Ath-SerGCT-171840,Mitochondrial,Non-CC/CCA,Control,0.393010586,0.457257488
+mitochondrial-Ath-SerGCT-171840,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.489585159,0.524296876
+mitochondrial-Ath-ProTGG-171838,Mitochondrial,CCA,Control,0.861968194,0.890564609
+mitochondrial-Ath-ProTGG-171838,Mitochondrial,CCA,Periodate Oxidation,0.683638768,0.698548094
+mitochondrial-Ath-ProTGG-171838,Mitochondrial,Non-CC/CCA,Control,0.176009132,0.180654835
+mitochondrial-Ath-ProTGG-171838,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.349696051,0.428449278
+mitochondrial-Ath-LysTTT-171834,Mitochondrial,CCA,Control,0.717148656,0.761574016
+mitochondrial-Ath-LysTTT-171834,Mitochondrial,CCA,Periodate Oxidation,0.535958904,0.55081187
+mitochondrial-Ath-LysTTT-171834,Mitochondrial,Non-CC/CCA,Control,0.580273057,0.578382098
+mitochondrial-Ath-LysTTT-171834,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.779001259,0.787189767
+mitochondrial-Ath-HisGTG-171833,Mitochondrial,CCA,Control,0.891193936,0.896259463
+mitochondrial-Ath-HisGTG-171833,Mitochondrial,CCA,Periodate Oxidation,0.609502189,0.600178547
+mitochondrial-Ath-HisGTG-171833,Mitochondrial,Non-CC/CCA,Control,0.145237891,0.151134862
+mitochondrial-Ath-HisGTG-171833,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.446678628,0.451812868
+mitochondrial-Ath-GlyGCC-171832,Mitochondrial,CCA,Control,0.878289015,0.880914853
+mitochondrial-Ath-GlyGCC-171832,Mitochondrial,CCA,Periodate Oxidation,0.651350971,0.661384863
+mitochondrial-Ath-GlyGCC-171832,Mitochondrial,Non-CC/CCA,Control,0.169864915,0.175649538
+mitochondrial-Ath-GlyGCC-171832,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.478694221,0.52566315
+mitochondrial-Ath-GluTTC-171831,Mitochondrial,CCA,Control,0.770428855,0.815869127
+mitochondrial-Ath-GluTTC-171831,Mitochondrial,CCA,Periodate Oxidation,0.459505514,0.429704476
+mitochondrial-Ath-GluTTC-171831,Mitochondrial,Non-CC/CCA,Control,0.298034211,0.28870599
+mitochondrial-Ath-GluTTC-171831,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.629232636,0.652509018
+mitochondrial-Ath-GlnTTG-171830,Mitochondrial,CCA,Control,0.832468495,0.858690162
+mitochondrial-Ath-GlnTTG-171830,Mitochondrial,CCA,Periodate Oxidation,0.715141612,0.71189203
+mitochondrial-Ath-GlnTTG-171830,Mitochondrial,Non-CC/CCA,Control,0.208376315,0.210968806
+mitochondrial-Ath-GlnTTG-171830,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.423308694,0.417924984
+mitochondrial-Ath-eMetCAT-171836,Mitochondrial,CCA,Control,0.892532928,0.887186074
+mitochondrial-Ath-eMetCAT-171836,Mitochondrial,CCA,Periodate Oxidation,0.652014083,0.636183358
+mitochondrial-Ath-eMetCAT-171836,Mitochondrial,Non-CC/CCA,Control,0.15690041,0.142496909
+mitochondrial-Ath-eMetCAT-171836,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.353532515,0.324886738
+mitochondrial-Ath-CysGCA-171829,Mitochondrial,CCA,Control,0.823774319,0.828663963
+mitochondrial-Ath-CysGCA-171829,Mitochondrial,CCA,Periodate Oxidation,0.445602522,0.427615678
+mitochondrial-Ath-CysGCA-171829,Mitochondrial,Non-CC/CCA,Control,0.157107596,0.1466137
+mitochondrial-Ath-CysGCA-171829,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.461745863,0.437840463
+mitochondrial-Ath-AspGTC-171828,Mitochondrial,CCA,Control,0.700284208,0.742865693
+mitochondrial-Ath-AspGTC-171828,Mitochondrial,CCA,Periodate Oxidation,0.570681986,0.580479902
+mitochondrial-Ath-AspGTC-171828,Mitochondrial,Non-CC/CCA,Control,0.382644669,0.383143464
+mitochondrial-Ath-AspGTC-171828,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.525002994,0.549774335
+mitochondrial-Ath-AsnGTT-183766,Mitochondrial,CCA,Control,0.885564316,0.903336073
+mitochondrial-Ath-AsnGTT-183766,Mitochondrial,CCA,Periodate Oxidation,0.792929635,0.802399121
+mitochondrial-Ath-AsnGTT-183766,Mitochondrial,Non-CC/CCA,Control,0.265815908,0.260254669
+mitochondrial-Ath-AsnGTT-183766,Mitochondrial,Non-CC/CCA,Periodate Oxidation,0.328584796,0.350247945
+Bacillus_trnI_control,Spike-in control,CCA,Control,0.865036947,0.876955397
+Bacillus_trnI_control,Spike-in control,CCA,Periodate Oxidation,0.018632581,0.014697681
+Bacillus_trnI_control,Spike-in control,Non-CC/CCA,Control,0.410871575,0.382738695
+Bacillus_trnI_control,Spike-in control,Non-CC/CCA,Periodate Oxidation,0.834044642,0.757134262

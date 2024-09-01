@@ -1,0 +1,36 @@
+
+#Using mapped sam files from experiment 1, determine counts for read end positions for each reference
+
+for file in *sam; do perl end_mapping_sam.pl $file Arabidopsis_Sprinzl.mod.txt ${file%.bbmerge.sam}; done
+
+#output files in read_position_files subdirectory
+
+
+#the following takes sets of input files and outputs a file that can be used in R to make mirrored bar plots for end mapping positions. It does the following.
+#--replaces specified isodecoder names (in this case, eMet and iMet --> Met(e) and Met(i)
+#--Excludes a list specialized genes (in this case, stem loops, 3 mito genes with too much cross mapping, and the Bacillus spike in)
+#--Outputs TPM (divided by number of reps so that sum results in the average TPM when plotted)
+#--Selected specified genome (plastid, mitochondrial, or nuclear)
+#--sum isodecoders
+#--Apply positive values for one group and negative values for another so that they can be plotted in a mirrored fashion
+
+
+perl mapping_position_R_formatting.pl plots/control_start_files.txt plots/periodate_start_files.txt Control Periodate plastid plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/plastid_starts.txt
+
+perl mapping_position_R_formatting.pl plots/control_start_files.txt plots/periodate_start_files.txt Control Periodate mitochondrial plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/mitochondrial_starts.txt
+
+perl mapping_position_R_formatting.pl plots/control_start_files.txt plots/periodate_start_files.txt Control Periodate nuclear plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/nuclear_starts.txt
+
+perl mapping_position_R_formatting.pl plots/control_end_files.txt plots/periodate_end_files.txt Control Periodate plastid plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/plastid_ends.txt
+
+perl mapping_position_R_formatting.pl plots/control_end_files.txt plots/periodate_end_files.txt Control Periodate mitochondrial plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/mitochondrial_ends.txt
+
+perl mapping_position_R_formatting.pl plots/control_end_files.txt plots/periodate_end_files.txt Control Periodate nuclear plots/isodecoder_renaming.txt plots/exclusion_list.txt > plots/nuclear_ends.txt
+
+
+
+#the print_facet_axis_string.pl script was called using each of the output files from the above calls (6 separate runs). It prints out a long string that can be used to manually set the y axis limites for each facet in a ggplot in conjunction with the ggh4x package: https://teunbrand.github.io/ggh4x/reference/facetted_pos_scales.html
+
+
+
+#generated plots in R (end_mapping_plots.r) with the following script. The long string of axis formatting for each was based on output from the above Perl script.

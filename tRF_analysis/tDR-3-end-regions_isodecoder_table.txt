@@ -1,0 +1,32 @@
+Genome	Isodecoder	Gene Name	Sprinzl Position	tRNA Region	Replicates
+mitochondrial	SerGCT	mitochondrial-Ath-SerGCT-171840	45x1	Variable loop	3
+nuclear	ArgCCG	nuclear-Ath-ArgCCG-171686	63	3' T stem	3
+nuclear	AspGTC	nuclear-Ath-AspGTC-183756	54	T loop	3
+nuclear	AspGTC	nuclear-Ath-AspGTC-183757	38	Anticodon loop	3
+nuclear	AspGTC	nuclear-Ath-AspGTC-183757	44	Variable loop	3
+nuclear	CysGCA	nuclear-Ath-CysGCA-171684	48	Variable loop	3
+nuclear	CysGCA	nuclear-Ath-CysGCA-171742	48	Variable loop	3
+nuclear	CysGCA	nuclear-Ath-CysGCA-171756	48	Variable loop	3
+nuclear	CysGCA	nuclear-Ath-CysGCA-171758	48	Variable loop	2
+nuclear	CysGCA	nuclear-Ath-CysGCA-171762	48	Variable loop	3
+nuclear	GluCTC	nuclear-Ath-GluCTC-183765	32	Anticodon loop	2
+nuclear	GluCTC	nuclear-Ath-GluCTC-183765	36	Anticodon loop	2
+nuclear	GlyGCC	nuclear-Ath-GlyGCC-183730	38	Anticodon loop	2
+nuclear	HisGTG	nuclear-Ath-HisGTG-171768	54	T loop	3
+nuclear	HisGTG	nuclear-Ath-HisGTG-183747	54	T loop	3
+nuclear	HisGTG	nuclear-Ath-HisGTG-183748	54	T loop	3
+nuclear	LysCTT	nuclear-Ath-LysCTT-183733	36	Anticodon loop	3
+nuclear	LysCTT	nuclear-Ath-LysCTT-183733	39	3' anticodon stem	3
+nuclear	ProCGG	nuclear-Ath-ProCGG-171739	36	Anticodon loop	2
+nuclear	ProTGG	nuclear-Ath-ProTGG-183741	33	Anticodon loop	2
+nuclear	ProTGG	nuclear-Ath-ProTGG-183741	36	Anticodon loop	2
+nuclear	ProTGG	nuclear-Ath-ProTGG-183741	54	T loop	3
+nuclear	SerAGA	nuclear-Ath-SerAGA-171814	38	Anticodon loop	3
+nuclear	TrpCCA	nuclear-Ath-TrpCCA-183740	35	Anticodon loop	3
+nuclear	ValAAC	nuclear-Ath-ValAAC-171778	38	Anticodon loop	3
+nuclear	ValAAC	nuclear-Ath-ValAAC-171779	38	Anticodon loop	3
+nuclear	ValCAC	nuclear-Ath-ValCAC-171807	38	Anticodon loop	3
+nuclear	iMetCAT	nuclear-Ath-iMetCAT-171658	38	Anticodon loop	2
+plastid	IleCAT	plastid-Ath-IleCAT-171856	63	3' T stem	3
+plastid	LeuTAA	plastid-Ath-LeuTAA-171860	54	T loop	3
+plastid	SerGGA	plastid-Ath-SerGGA-171866	38	Anticodon loop	2

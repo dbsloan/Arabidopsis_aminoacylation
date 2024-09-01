@@ -1,0 +1,12 @@
+mitochondrial-Ath-stemloop-49221
+mitochondrial-Ath-stemloop-c83962
+mitochondrial-Ath-stemloop-c116660
+mitochondrial-Ath-stemloop-159855
+mitochondrial-Ath-stemloop-166441
+mitochondrial-Ath-stemloop-c219906
+mitochondrial-Ath-stemloop-309033
+mitochondrial-Ath-stemloop-315873
+mitochondrial-Ath-AspGTC-171828
+mitochondrial-Ath-SerGGA-171839
+mitochondrial-Ath-TrpCCA-171842
+Bacillus_trnI_control
