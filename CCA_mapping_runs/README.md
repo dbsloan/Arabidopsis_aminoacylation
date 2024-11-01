@@ -2,8 +2,8 @@
 
 Raw fastq were processed as follows
 
-- R1 and R2 with bbmerge
-- Flanking sequence from MSR-seq adapters trimmed (MSR-seq_trim.p)
+- R1 and R2 merged with bbmerge
+- Flanking sequence from MSR-seq adapters trimmed (MSR-seq_trim.pl)
 - Collapsed identical sequences (collapse_identical_seqs.pl)
 - Blast collapsed sequences against reference database and trim 5' end of individual reads (not collapsed) based on blast output (trim_5prime_blast.pl)
 - Map individually blast-trimmed reads to reference database with bowtie2

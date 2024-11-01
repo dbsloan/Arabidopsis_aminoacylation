@@ -6,7 +6,5 @@ Input files with sequence variant data were generated based on workflow from [Ed
 
 Two R scripts run in series to generate plot.
 
-base-modification-profile-processing.revised.R
-base-modification-profile-heatmap.revised.R
-
-These are modified versions that collapse individual genes into isodecoder families. The original version (separate by gene) and required files are available in the `original_version_in_bioRxiv_preprint` directory.
+base-modification-profile-processing.R
+base-modification-profile-heatmap.R
