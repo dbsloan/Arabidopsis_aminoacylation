@@ -16,6 +16,7 @@ A [detailed protocol](MSR-seq.protocol.pdf) used for data generation is availabl
 
 ## Reference
 
-This study is reported in the following preprint:
+This study is reported in the following paper:
 
-Ceriotti, LF, Warren, JM, Sanchez-Puerta MV, Sloan DB. 2024. The landscape of Arabidopsis tRNA aminoacylation. bioRxiv. [doi.org/10.1101/2024.09.09.612099](https://doi.org/10.1101/2024.09.09.612099)
+Ceriotti LF, Warren, JM, Sanchez-Puerta MV, Sloan DB. 2024. [The landscape of Arabidopsis tRNA aminoacylation](https://doi.org/10.1111/tpj.17146). Plant Journal. 120: 2784-2802. 
+
